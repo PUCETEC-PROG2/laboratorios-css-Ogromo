@@ -1,4 +1,93 @@
 /* Los estilos se aplican a todo el documento */
 body {
-    
+    background: #202020;
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    color: #980900;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 42px;
+    margin-top: auto;
+}
+
+h2 {
+    text-align: left;
+    color: #641100;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    margin-top: auto;
+}
+h3 {
+    text-align: center;
+    color: #943900;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 21px;
+    margin-top: auto;
+}
+
+div.descripcion {
+    padding: 20px;
+    text-align: center;
+    max-width: 296px;
+    margin-top: auto;
+}
+
+p {
+    text-align: right;
+    text-align: justify;
+    color: #999999;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: auto;
+    padding: 6px;
+}
+
+p.copyrigth {
+    text-align: center;
+    padding: 6px;
+    margin-top: auto;
+    color: #686868;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 10px;
+}
+article {
+    border-radius: 6px;
+    border: #ffffff solid 2px;
+    margin-top: auto;
+    padding: 5px;
+    background: #ffffff09;
+    max-width: 220px;
+    min-width: 200px;
+}
+#redes-sociales {
+    background: #00000040;
+    border: #ffffff solid 1px;
+    border-radius: 9px;
+    margin-top: auto;
+    max-width: 240px;
+    min-width: 220px;
+    padding: 8px;
+}
+footer {
+    background: #12121250;
+    padding: 12px;
+    border-radius: 8px;
+}
+img {
+    width: 24px;
+    height: 21px;
+    border-radius: 4px;
+}
+a {
+    color: #ffffff;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+img.perfil {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
 }
