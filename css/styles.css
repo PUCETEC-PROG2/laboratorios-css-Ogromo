@@ -1,7 +1,13 @@
 /* Los estilos se aplican a todo el documento */
 body {
-    background: #202020;
-    color: #ffffff;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/022/028/452/small_2x/a-wallpaper-with-dark-dramatic-gradient-colors-photo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #00000000;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
 
 h1 {
@@ -14,14 +20,14 @@ h1 {
 
 h2 {
     text-align: left;
-    color: #641100;
+    color: #b8abfd;
     font-family: 'Courier New', Courier, monospace;
     font-size: 28px;
     margin-top: auto;
 }
 h3 {
     text-align: center;
-    color: #943900;
+    color: #f06e1d;
     font-family: 'Courier New', Courier, monospace;
     font-size: 21px;
     margin-top: auto;
@@ -37,7 +43,7 @@ div.descripcion {
 p {
     text-align: right;
     text-align: justify;
-    color: #999999;
+    color: #ededed;
     font-family: Arial, sans-serif;
     font-size: 18px;
     margin-top: auto;
@@ -57,13 +63,13 @@ article {
     border: #ffffff solid 2px;
     margin-top: auto;
     padding: 5px;
-    background: #ffffff09;
+    background: #00000085;
     max-width: 220px;
     min-width: 200px;
 }
 #redes-sociales {
     background: #00000040;
-    border: #ffffff solid 1px;
+    border: #fa464688 solid 1px;
     border-radius: 9px;
     margin-top: auto;
     max-width: 240px;
@@ -71,7 +77,7 @@ article {
     padding: 8px;
 }
 footer {
-    background: #12121250;
+    background: #121212c1;
     padding: 12px;
     border-radius: 8px;
 }
